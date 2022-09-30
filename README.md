@@ -1,1 +1,1 @@
-# Covid-Prediction-App
+# Covid-Prediction-API
